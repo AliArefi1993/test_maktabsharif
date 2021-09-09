@@ -13,5 +13,5 @@ def func(*args, **kwargs):
 
 print(func(1,2,3,5,6,9,6,6,0, a=4))
     
-print('ali')
+print('ali in git remote')
 pritn('ali2')
