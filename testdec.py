@@ -14,4 +14,5 @@ def func(*args, **kwargs):
 print(func(1,2,3,5,6,9,6,6,0, a=4))
     
 print('aliin local')
+print('ali in test2 remote')
 pritn('ali2')
